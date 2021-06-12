@@ -1,0 +1,4 @@
+**/*.o
+main_march
+**/*.ply
+**/*.txt
